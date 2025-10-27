@@ -1,4 +1,7 @@
 # 🎯 Python节假日生成器开发实战：从基础到智能化
+<img width="1013" height="847" alt="image" src="https://github.com/user-attachments/assets/9f9d5c78-1ab9-4a93-85f9-6e13b11e21de" />
+
+
 
 ## 📖 项目概述
 
