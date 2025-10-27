@@ -1,0 +1,18 @@
+# 节假日生成器项目依赖包
+# Holiday Generator Project Dependencies
+
+# 中国节假日库 - 核心依赖
+# Chinese calendar library for accurate holiday detection
+chinese-calendar==1.10.0
+
+# 网络请求库 (用于节假日数据获取)
+# HTTP library for holiday data fetching
+requests>=2.25.0
+
+# 内置库 (无需安装)
+# Built-in libraries (no installation required):
+# - tkinter (GUI framework)
+# - datetime (date and time handling)
+# - calendar (calendar utilities)
+# - json (JSON data processing)
+# - threading (multi-threading support)
